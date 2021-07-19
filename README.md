@@ -4,7 +4,7 @@
  <img align="right" src="/media/tri-logo.png" width="20%"/>
 </a>
 
-[**paper**](https://arxiv.org/abs/2106.16118) / [**project site**](https://sites.google.com/view/simnet-corl-2021) / **blog**
+[**paper**](https://arxiv.org/abs/2106.16118) / [**project site**](https://sites.google.com/view/simnet-corl-2021) / [**blog**](https://medium.com/toyotaresearch/enabling-real-world-object-manipulation-with-sim-to-real-transfer-20d4962e029)
 
 <img width="90%" src="/media/model.png"/>
 
